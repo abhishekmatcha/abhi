@@ -13,5 +13,11 @@ Class Prog
   static abhi(){
     int s=20;
   }
+    
+  public sudi(){
+    int i = 0;
+  }
+}
+]
 
 }
