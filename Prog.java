@@ -8,8 +8,10 @@ Class Prog
       int d=a>>2;
       int e=a&b;
 	  System.out.println("a="+a+"b="+ b +"c="+ c +"d="+ d + "e="+e);
-	}
-}
-]
+  }
+  
+  static abhi(){
+    int s=20;
+  }
 
-aaaaaaaaaaaaaaaaaaaaaaaaaa
+}
